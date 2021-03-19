@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 33342e9c2fd1ae5459fa882db294c2b9
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    4300000: Plane2432
+    4300002: Tube09
+    4300004: Cylinder181
+    4300006: Plane2427
+    4300008: Plane2428
+    4300010: Plane2429
+    4300012: Plane2430
+    4300014: Plane2431
+    4300016: Plane2433
+    4300018: Plane2418
+    4300020: Box2113
+    4300022: Plane2417
+    4300024: Box2112
+    4300026: Plane2416
+    4300028: Box2111
+    4300030: Plane2415
+    4300032: Box2110
+    4300034: Plane2414
+    4300036: Box2109
+    4300038: Plane2413
+    4300040: Box2108
+    4300042: Plane2412
+    4300044: Box2107
+    4300046: Plane2411
+    4300048: Box2106
+    4300050: Plane2410
+    4300052: Box2105
+    4300054: Plane2409
+    4300056: Box2104
+    4300058: Plane2408
+    4300060: Box2103
+    4300062: Plane2407
+    4300064: Box2102
+    4300066: Plane2406
+    4300068: Box2101
+    4300070: Plane2405
+    4300072: Box2100
+    4300074: Plane2404
+    4300076: Box2099
+    4300078: Plane2403
+    4300080: Box2098
+    4300082: Plane2402
+    4300084: Box2097
+    4300086: Plane2401
+    4300088: Box2096
+    4300090: Box2094
+    4300092: Plane2399
+    4300094: Plane2420
+    4300096: Box2115
+    4300098: Plane2419
+    4300100: Box2114
+    4300102: Plane2421
+    4300104: Box2116
+    4300106: Plane2422
+    4300108: Box2117
+    4300110: Plane2423
+    4300112: Box2118
+    4300114: Plane2424
+    4300116: Box2119
+    4300118: Plane2425
+    4300120: Box2120
+    4300122: Plane2426
+    4300124: Box2121
+    4300126: Plane2397
+    4300128: Box2092
+    4300130: Plane2398
+    4300132: Box2093
+    4300134: Plane2395
+    4300136: Box2090
+    4300138: Plane2394
+    4300140: Box2089
+    4300142: Plane2391
+    4300144: Box2086
+    4300146: Plane2392
+    4300148: Box2087
+    4300150: Plane2393
+    4300152: Box2088
+    4300154: Plane2396
+    4300156: Box2091
+    4300158: Plane2390
+    4300160: Box205
+    4300162: Plane2400
+    4300164: Box2095
+    4300166: Plane2441
+    4300168: Box2127
+    4300170: Plane2443
+    4300172: Box2129
+    4300174: Plane2442
+    4300176: Box2128
+    4300178: Box199
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0399999991
+    meshCompression: 3
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
